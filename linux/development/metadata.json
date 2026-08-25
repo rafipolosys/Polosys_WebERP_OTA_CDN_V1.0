@@ -1,0 +1,14 @@
+{
+  "appId": "com.polosys.app",
+  "platform": "linux",
+  "channel": "development",
+  "version": "10.50.130-ota.1",
+  "bundleId": "10.50.130-ota.1",
+  "bundleUrl": "linux/development/bundles/polosys-linux-10.50.130-ota.1.zip",
+  "rollback": {
+    "enabled": true,
+    "reason": "",
+    "minSafeBundleId": "10.50.130-ota.1",
+    "forceRollback": false
+  }
+}
