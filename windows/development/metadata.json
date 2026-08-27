@@ -2,13 +2,13 @@
   "appId": "com.polosys.app",
   "platform": "windows",
   "channel": "development",
-  "version": "10.50.130-ota.1",
-  "bundleId": "10.50.130-ota.1",
-  "bundleUrl": "windows/development/bundles/polosys-10.50.130-ota.1.zip",
+  "version": "10.50.136-ota.1",
+  "bundleId": "10.50.136-ota.1",
+  "bundleUrl": "windows/development/bundles/polosys-10.50.136-ota.1.zip",
   "rollback": {
     "enabled": true,
     "reason": "",
-    "minSafeBundleId": "10.50.130-ota.1",
+    "minSafeBundleId": "10.50.136-ota.1",
     "forceRollback": false
   }
 }
