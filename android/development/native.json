@@ -1,0 +1,10 @@
+{
+  "appId": "com.polosys.app",
+  "platform": "android",
+  "channel": "development",
+  "nativeVersion": "10.50.136",
+  "versionCode": 10050136,
+  "apkUrl": "android/development/apk/polosys-10.50.136.apk",
+  "mandatory": false,
+  "releaseNotes": ""
+}
