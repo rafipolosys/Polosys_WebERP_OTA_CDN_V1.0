@@ -1,10 +1,10 @@
 {
-  "appId": "com.polosys.app",
+  "appId": "com.polosys.erp",
   "platform": "android",
   "channel": "development",
-  "nativeVersion": "10.50.154",
-  "versionCode": 10050154,
-  "apkUrl": "android/development/apk/polosys-10.50.154.apk",
+  "nativeVersion": "10.50.155",
+  "versionCode": 10050155,
+  "apkUrl": "android/development/apk/polosys-10.50.155.apk",
   "mandatory": false,
   "releaseNotes": ""
 }
