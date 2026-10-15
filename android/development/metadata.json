@@ -2,13 +2,13 @@
   "appId": "com.polosys.app",
   "platform": "android",
   "channel": "development",
-  "version": "10.50.153",
-  "bundleId": "10.50.153",
-  "bundleUrl": "android/development/bundles/polosys-10.50.153.zip",
+  "version": "10.50.154",
+  "bundleId": "10.50.154",
+  "bundleUrl": "android/development/bundles/polosys-10.50.154.zip",
   "rollback": {
     "enabled": true,
     "reason": "",
-    "minSafeBundleId": "10.50.153",
+    "minSafeBundleId": "10.50.154",
     "forceRollback": false
   }
 }
